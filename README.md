@@ -31,7 +31,7 @@ ___
 ___
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=m4hbod&count_private=true&show_icons=true&include_all_commits=true&theme=great-gatsby)
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31cdukygswnzfdd3p5ecig7mgzmy&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/track/73efpIhBktXoy5n10RKCFK?si=93ba84c3821a43e2)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31cdukygswnzfdd3p5ecig7mgzmy&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31cdukygswnzfdd3p5ecig7mgzmy&redirect=true)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=M4hbod)
 
