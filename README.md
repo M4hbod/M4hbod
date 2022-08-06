@@ -28,6 +28,5 @@ ___
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white)
 ___
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=m4hbod&count_private=true&show_icons=true&include_all_commits=true&theme=great-gatsby)
