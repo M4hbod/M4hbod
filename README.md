@@ -1,6 +1,6 @@
 ## Hi I'm Mahbod <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Mahbod a typical computer geek currently studying Python for Backend shits.<img src="https://user-images.githubusercontent.com/74229780/170257934-befc61e4-18a2-4bdb-9c4c-8b957348d8a7.gif" width="60px" alt="mahbod">
+I'm Mahbod a typical computer geek.<img src="https://user-images.githubusercontent.com/74229780/170257934-befc61e4-18a2-4bdb-9c4c-8b957348d8a7.gif" width="60px" alt="mahbod">
 
 :mailbox: Reach me out!
 
@@ -15,18 +15,8 @@ I'm Mahbod a typical computer geek currently studying Python for Backend shits.<
 ___
 - 🔭 I’m currently not working anywhere
 - :computer: Most used line of code `sudo rm -rf /`
-- 📫 How to reach me: Makhbaz@protonmail.com
-- ⚡ I play games at exam nights nerds
-- ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white) lover
 ___
 ### Things I Know:
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=py,git,github,mongodb,vscode)](https://skillicons.dev)
 ___
 ![trophy](https://github-profile-trophy.vercel.app/?username=M4hbod&theme=darkhub)
