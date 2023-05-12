@@ -11,10 +11,15 @@ I'm Mahbod a typical computer geek.<img src="https://user-images.githubuserconte
 [![Discord Badge](https://img.shields.io/badge/-M4hbod%231615-5662f6?style=flat&logo=Discord&logoColor=white&link=https://discordapp.com/users/491113976806113281)](https://discordapp.com/users/491113976806113281)
 [![Instagram Badge](https://img.shields.io/badge/-M4hboDD-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/M4hboDD)
 ___
-- 🔭 I’m currently not working anywhere
+- :telescope: I’m currently not working anywhere
 - :computer: Most used line of code `sudo rm -rf /`
 ___
 ### Things I Know:
 [![My Skills](https://skillicons.dev/icons?i=py,git,github,mongodb,vscode)](https://skillicons.dev)
 ___
-![trophy](https://github-profile-trophy.vercel.app/?username=M4hbod&theme=darkhub)
+<details>
+  <summary>Github Stats :zap:</summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=M4hbod&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M4hbod&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+</details>
