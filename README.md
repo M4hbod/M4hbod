@@ -18,7 +18,7 @@ ___
 [![My Skills](https://skillicons.dev/icons?i=py,git,github,mongodb,vscode)](https://skillicons.dev)
 ___
 <details>
-  <summary>Github Stats :zap:</summary>
+  <summary><h3>Github Stats</h3> :zap:</summary>
   
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=M4hbod&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M4hbod&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
