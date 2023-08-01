@@ -15,7 +15,7 @@ ___
 - :computer: Most used line of code `sudo rm -rf /`
 ___
 ### Things I Know:
-[![My Skills](https://skillicons.dev/icons?i=py,git,github,mongodb,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,git,github,mongodb,vscode,fastapi)](https://skillicons.dev)
 ___
 <details>
   <summary><h3>Github Stats</h3> :zap:</summary>
