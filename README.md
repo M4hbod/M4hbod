@@ -8,7 +8,7 @@ I'm Mahbod a typical computer geek.<img src="https://user-images.githubuserconte
 [![Telegram Badge](https://img.shields.io/badge/-M4hbod-2ca5e0?style=flat&logo=telegram&logoColor=white&link=https://www.t.me/al1almasi)](https://www.t.me/M4hbod)
 [![Steam](https://img.shields.io/badge/M4hbod-%23000000.svg?style=flat&logo=steam&logoColor=white)](https://steamcommunity.com/id/M4hbod)
 [![ProtonMail Badge](https://img.shields.io/badge/M4hbod-8B89CC?style=flat&logo=protonmail&logoColor=white)](mailto:M4hbod@proton.me)
-[![Discord Badge](https://img.shields.io/badge/-M4hbod%231615-5662f6?style=flat&logo=Discord&logoColor=white&link=https://discordapp.com/users/491113976806113281)](https://discordapp.com/users/491113976806113281)
+[![Discord Badge](https://img.shields.io/badge/-M4hbod-5662f6?style=flat&logo=Discord&logoColor=white&link=https://discordapp.com/users/491113976806113281)](https://discordapp.com/users/491113976806113281)
 [![Instagram Badge](https://img.shields.io/badge/-M4hboDD-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/M4hboDD)
 ___
 - :telescope: I’m currently not working anywhere
