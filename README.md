@@ -11,8 +11,7 @@ I'm Mahbod a typical computer geek.<img src="https://user-images.githubuserconte
 ![Discord Badge](https://img.shields.io/badge/-M4hbod-5662f6?style=flat&logo=Discord&logoColor=white)
 [![Instagram Badge](https://img.shields.io/badge/-M4hboDD-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/M4hboDD)
 ___
-- :telescope: I’m currently not working anywhere
-- :computer: Most used line of code `sudo rm -rf /`
+![M4hbod](https://count.getloli.com/get/@M4hbod?theme=rule34)
 ___
 ### Things I Know:
 [![My Skills](https://skillicons.dev/icons?i=py,git,github,mongodb,vscode,fastapi,kubernetes,docker)](https://skillicons.dev)
