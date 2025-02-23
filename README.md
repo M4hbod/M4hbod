@@ -52,7 +52,8 @@ ___
 
 ___
 <details>
-  <summary><h3>Github Stats</h3> :zap:</summary>
+  <summary><h3>Github Stats</h3>:zap:</summary>
+
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=M4hbod&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M4hbod&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
   <a href="#">![Profile Views](https://count.getloli.com/get/@M4hbod?theme=rule34)</a>
