@@ -49,6 +49,7 @@ ___
 
 [![postman](https://go-skill-icons.vercel.app/api/icons?i=postman)](https://www.postman.com)
 [![git](https://go-skill-icons.vercel.app/api/icons?i=git)](https://git-scm.com)
+[![celery](https://go-skill-icons.vercel.app/api/icons?i=celery)](https://docs.celeryq.dev)
 
 ___
 <details>
