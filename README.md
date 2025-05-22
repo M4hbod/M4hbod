@@ -29,10 +29,6 @@ ___
 [![postgresql](https://go-skill-icons.vercel.app/api/icons?i=postgresql)](https://www.postgresql.org)
 [![redis](https://go-skill-icons.vercel.app/api/icons?i=redis)](https://redis.io)
 
-### Testing Framework
-
-[![pytest](https://go-skill-icons.vercel.app/api/icons?i=pytest)](https://pytest.org)
-
 ### DevOps & Automation
 
 [![docker](https://go-skill-icons.vercel.app/api/icons?i=docker)](https://www.docker.com)
@@ -50,6 +46,7 @@ ___
 [![postman](https://go-skill-icons.vercel.app/api/icons?i=postman)](https://www.postman.com)
 [![git](https://go-skill-icons.vercel.app/api/icons?i=git)](https://git-scm.com)
 [![celery](https://go-skill-icons.vercel.app/api/icons?i=celery)](https://docs.celeryq.dev)
+[![pytest](https://go-skill-icons.vercel.app/api/icons?i=pytest)](https://pytest.org)
 
 ___
 <details>
